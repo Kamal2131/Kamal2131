@@ -215,7 +215,6 @@ LeetCode: 1706 ⭐
 ### 📫 Connect With Me
 
 - 📧 Email: kamalkrishnaghosh999@gmail.com
-- 📱 Phone: +91-6295567785
 - 🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin)
 
 <div align="center">
