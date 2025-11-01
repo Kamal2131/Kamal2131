@@ -14,17 +14,32 @@
 
 ### ⚡ Quick Info
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Name-Kamal%20Krishna%20Ghosh-2D95F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Kolkata,%20India-28a745?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-Python%20Developer-orange?style=flat-square" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Education-B.Tech%20Computer%20Science-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/University-Techno%20India-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/LeetCode-1706-orange?style=flat-square&logo=leetcode" />
-</p>
+**👤 Profile**
+
+```yaml
+Name: Kamal Krishna Ghosh
+Role: Python Developer
+Location: Kolkata, India
+```
+
+</td>
+<td align="center" width="50%">
+
+**🎓 Education**
+
+```yaml
+Degree: B.Tech Computer Science
+University: Techno India
+LeetCode: 1706 ⭐
+```
+
+</td>
+</tr>
+</table>
 
 ### 👨‍💻 About Me
 
