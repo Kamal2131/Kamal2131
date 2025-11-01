@@ -185,7 +185,7 @@
 ---
 
 ### 📈 GitHub Activity Graph
-[![Kamal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kamal2131&theme=react-dark)](https://github.com/kamal2131)
+[![Kamal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamal2131&theme=react-dark)](https://github.com/kamal2131)
 
 ### 📊 GitHub Stats
 
